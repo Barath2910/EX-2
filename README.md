@@ -1,5 +1,5 @@
 # EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL
-DATE: 26-05-2023
+DATE: 13-03-2023
 
 ## AIM :
 To write a python program to perform sliding window protocol
